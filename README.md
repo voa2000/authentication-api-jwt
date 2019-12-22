@@ -1,5 +1,5 @@
-### Authentication using an API with jwt
-Node express application using mongoDB, dotenv, nodemon, express, etc
+# Authentication using an API with jwt
+### Node express application using mongoDB, dotenv, nodemon, express, etc
 
 ### Install these Packages
 
